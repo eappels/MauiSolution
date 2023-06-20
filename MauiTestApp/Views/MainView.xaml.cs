@@ -1,4 +1,4 @@
-namespace MauiApp.Views
+namespace MauiTestApp.Views
 {
     public partial class MainView : ContentPage
     {

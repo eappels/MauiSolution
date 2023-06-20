@@ -1,4 +1,4 @@
-﻿namespace MauiApp.Helpers
+﻿namespace MauiTestApp.Helpers
 {
     public class BaseViewModel : INotifyPropertyChanged
     {

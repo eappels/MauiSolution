@@ -1,4 +1,4 @@
-﻿namespace MauiApp
+﻿namespace MauiTestApp
 {
     public static class MauiProgram
     {
